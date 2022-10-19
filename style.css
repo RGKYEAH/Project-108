@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background:white;
+}
+
+.header_div {
+    background:white;
+    color:crimson;
+}
+
+.header_div p {
+    font-family: 'Roboto Condensed', sans-serif;
+    color:grey;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.main_div {
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin-top:30px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+
+.footer_div {
+    position:fixed;
+    color:skyblue;
+    font-weight:bolder;
+    bottom:0;
+    font-size:18px;
+    width:100%;
+    background-color:blueviolet;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px 5px 5px rgb(151,149,149);
+    font-family: 'Fuzzy Bubbles', cursive;
+}
